@@ -1,2 +1,2 @@
 # ML_DevOps_ND
-Repo for all the projects completed during the MLOps nano degree 
+Repo for project1 in the MLOps nano degree 
